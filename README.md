@@ -11,7 +11,7 @@ I'm Tiago Antunes, currently I'm doing my Master's Degree in Computer Science an
 
 - 📸 I like pretty things. I love photography and design, and the little details. I love to play games. And perhaps above all, I like speed.
 
-- : Always free to talk, if you have any question or you'd like to work with me, feel free to contact me!
+- 🗣️ Always free to talk, if you have any question or you'd like to work with me, feel free to contact me!
   
 ---
 ### 🔗 How to Reach Me:
@@ -29,8 +29,8 @@ I'm Tiago Antunes, currently I'm doing my Master's Degree in Computer Science an
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity Engine" alt="Unity Engine" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg"  title="Godot Engine" alt="GodotEngine" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
