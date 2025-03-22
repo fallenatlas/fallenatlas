@@ -3,11 +3,11 @@
 ---
 ### :man_technologist: About Me :
 
-I'm Tiago Antunes, currently I'm doing my Master's Degree in Computer Science and Engineering Student at Instituto Superior Técnico, Lisbon. I am specializing in Videogames and Interaction and Visualization, and aim to land a job in the game industry as a programmer for games.
+I'm Tiago Antunes, currently I'm doing my Master's Degree in Computer Science and Engineering at Instituto Superior Técnico, Lisbon. I am specializing in Videogames and Interaction and Visualization, and aim to land a job in the game industry as a programmer for games.
 
 - 🎮 I enjoy doing game jams, and game with longer development time. I also like doing small projects to experiment with novel game mechanics, that mostly never see the day light.
 
-- 🎲 I'm contributing to a student made Game Engine, Cubos, primarily building it's physics from the ground up.
+- 🎲 I'm contributing to a student made Game Engine, [Cubos](https://github.com/GameDevTecnico/cubos), primarily building it's physics and collision from the ground up.
 
 - 📸 I like pretty things. I love photography and design, and the little details. I love to play games. And perhaps above all, I like speed.
 
